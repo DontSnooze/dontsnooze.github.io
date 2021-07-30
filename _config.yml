@@ -1,1 +1,19 @@
-theme: jekyll-theme-minima
+title: Amos's Awesome Blog
+email: amos@afewdevelopers.com
+# The description will appear in your document head meta (for
+# Google search results) and in your feed.xml site description.
+description: >- # this means to ignore newlines until "baseurl:"
+  A blog by Amos Todman showcasing some of the projects he's developed
+  as well as other random types of posts. 
+  Projects include Apple projects (iOS, OSX), Web related projects and others.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: dontsnooze
+github_username:  dontsnooze
+
+# Build settings
+theme: minima
+# theme: jekyll-theme-cayman
+# remote_theme: pasindud/jekyll-masonry
+plugins:
+  - jekyll-feed
