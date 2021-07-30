@@ -6,7 +6,6 @@ categories: development blockchain energi crypto
 ---
 
 This site parse an NRG reward data csv file generated from the updated energi3-provisioning scripts and creates a few charts for easy viewing.
-See what updates I made to the energi3-provisioning scripts on github
 
 Charts Screenshot:
 
@@ -15,3 +14,5 @@ Charts Screenshot:
 [See it in action](https://amostodman.github.io/ATRewardsCharts-NRG/)
 
 [View on GitHub](https://amostodman.github.io/ATRewardsCharts-NRG/)
+
+[See what updates I made to the energi3-provisioning scripts on github](https://amostodman.github.io/energi3-provisioning)
