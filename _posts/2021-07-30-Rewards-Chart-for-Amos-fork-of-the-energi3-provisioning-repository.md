@@ -5,8 +5,6 @@ date:   2021-07-30 01:15:00 -0400
 categories: development blockchain energi crypto
 ---
 
-# Rewards chart for Amos's fork of the energi3-provisioning repository
-
 This site parse an NRG reward data csv file generated from the updated energi3-provisioning scripts and creates a few charts for easy viewing.
 See what updates I made to the energi3-provisioning scripts on github
 
