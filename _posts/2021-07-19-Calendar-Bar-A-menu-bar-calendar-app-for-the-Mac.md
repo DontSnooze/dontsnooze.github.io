@@ -11,4 +11,6 @@ Calendar Bar is a Mac menu bar app made out of frustration of wanting to quickly
 
 ![DS Calendar bar screenshot](https://amostodman.github.io/DSCalendarBar/docs/images/ds_calendar_bar_screenshot.jpg)
 
-[See it on github for downloads](https://amostodman.github.io/DSCalendarBar)
+[Download](https://amostodman.github.io/DSCalendarBar)
+
+[See it on github](https://amostodman.github.io/DSCalendarBar)
