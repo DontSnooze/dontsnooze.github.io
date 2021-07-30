@@ -1,4 +1,4 @@
-title: Amos's Awesome Blog
+title: Projects from Don't Snooze Productions
 email: amos@afewdevelopers.com
 # The description will appear in your document head meta (for
 # Google search results) and in your feed.xml site description.
@@ -10,6 +10,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dontsnooze
 github_username:  dontsnooze
+instagram_username: dontsnooze
+facebook_username: dontsnoozeHQ
+show_excerpts: true
 
 # Build settings
 theme: minima
