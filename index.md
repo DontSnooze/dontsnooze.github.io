@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome
+# title: Home
 list_title: Posts
 ---
 
