@@ -17,4 +17,4 @@ Frontend tested and working on Chrome using [MetaMask](https://metamask.io):
 
 ![DS Blockchain Social Networking - Chrome Screen shot](https://dontsnooze.github.io/DSBlockchainSocialNetworking/docs/DSBlockchainSocialNetwork.png)
 
-[Check it out on github](https://dontsnooze.github.io/DSBlockchainSocialNetwork)
+[Check it out on github](https://dontsnooze.github.io/DSBlockchainSocialNetworking)
