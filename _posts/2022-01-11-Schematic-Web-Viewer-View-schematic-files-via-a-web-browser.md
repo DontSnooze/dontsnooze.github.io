@@ -5,8 +5,6 @@ date:   2022-01-11 20:54:00 -0400
 categories: minecraft schematic canvas THREE.js web development mac
 ---
 
-Schematic Web Viewer - View schematic files via a web browser
-
 The Schematic Web Viewer is a web app which loads .schematic files (or similar formatted) and displays the results graphically.
 Its a work in progress but has some basic blocks rendered from public Minecraft resource packs.
 
