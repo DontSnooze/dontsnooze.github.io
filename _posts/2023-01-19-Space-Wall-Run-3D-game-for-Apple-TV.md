@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Space Wall Run - A 3D game for the Apple TV"
-date:   2023-01-19 20:54:00 -0400
+date:   2023-01-19 12:00:00 -0400
 categories: xcode osx development mac appletv
 ---
 
