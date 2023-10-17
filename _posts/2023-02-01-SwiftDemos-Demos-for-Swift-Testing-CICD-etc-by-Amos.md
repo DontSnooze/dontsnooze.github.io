@@ -7,7 +7,7 @@ categories: xcode ios swift swiftui development cicd uitesting unittesting
 
 Demos for Swift, Testing, CI/CD etc by [Amos](https://github.com/amostodman).
 
-This is a Demo project for Swift, SwiftUI, Testing, CI/CD etc.
+This is a Demo project for Swift, SwiftUI, Testing, CI/CD, REST API, etc.
 
 The app has Unit Tests, UI Tests and runs through a CI/CD Pipeline.
 
