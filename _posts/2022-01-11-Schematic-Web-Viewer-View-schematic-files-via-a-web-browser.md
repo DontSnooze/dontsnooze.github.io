@@ -12,4 +12,4 @@ Its a work in progress but has some basic blocks rendered from public Minecraft 
 
 Need a schematic file to try it with? Check the [schematics folder in the repo](https://github.com/DontSnooze/SchematicWebViewer/tree/main/Schematics) or direct download one [here](https://github.com/DontSnooze/SchematicWebViewer/raw/main/Schematics/AmosBedrockCowFarmV2.schematic)
 
-[See it on github](https://dontsnooze.github.io/SchematicWebViewer)
+[See it on github](https://github.com/DontSnooze/SchematicWebViewer)
