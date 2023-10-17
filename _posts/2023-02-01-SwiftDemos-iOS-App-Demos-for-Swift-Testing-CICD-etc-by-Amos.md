@@ -1,15 +1,13 @@
 ---
 layout: post
-title:  "SwiftDemos - Demos for Swift, Testing, CI/CD etc by Amos"
+title:  "SwiftDemos iOS App - Demos for Swift, Testing, CI/CD etc by Amos"
 date:   2023-02-01 12:00:00 -0400
 categories: xcode ios swift swiftui development cicd uitesting unittesting
 ---
 
-Demos for Swift, Testing, CI/CD etc by [Amos](https://github.com/amostodman).
+A demo project including an iOS app which demonstrates Swift, SwiftUI, Unit and UI Testing, CI/CD, REST API, MVVM, etc by [Amos](https://github.com/amostodman). The iOS app is built natively with Xcode and automated using GitHub actions.
 
-This is a Demo project for Swift, SwiftUI, Testing, CI/CD, REST API, etc.
-
-The app has Unit Tests, UI Tests and runs through a CI/CD Pipeline.
+The app has Unit Tests, UI Tests and runs through a CI/CD Pipeline for deployments.
 
 The pipeline adds automation to make deployments more efficient.
 - Uses [GitHub Actions](https://docs.github.com/en/actions) via the repo and [Github hosted virtual machines](https://docs.github.com/en/actions/using-github-hosted-runners/about-github-hosted-runners) to run the pipeline automatically on new commits.
