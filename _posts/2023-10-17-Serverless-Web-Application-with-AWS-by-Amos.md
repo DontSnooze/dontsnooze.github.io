@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Serverless Web Application with AWS by Amos"
+title:  "Serverless Web Application with AWS"
 date:   2023-10-17 12:00:00 -0400
 categories: aws web development serverless
 ---
